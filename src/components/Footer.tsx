@@ -91,7 +91,7 @@ export default function Footer() {
 
         <div className="pt-8 border-t border-white/10 flex flex-col md:flex-row items-center justify-between gap-4">
           <p className="text-xs text-white/40">
-            © {new Date().getFullYear()} Meridian Luxury Real Estate. All rights reserved.
+            © {new Date().getFullYear()} Code By Mohit. All rights reserved.
           </p>
           <div className="flex gap-6 text-xs text-white/40">
             <a href="#" className="hover:text-gold transition-colors">Privacy Policy</a>
